@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
+    "author": "啥芠婭",
+    "time": "2026年08月23日01时09分40秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto?js...",
+  "description": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+  "about": {
+    "@type": "Thing",
+    "name": "www.share.ulldl.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "大学生一个月给多少生活费合适",
+    "description": "内容页的详细描述，可包含www.share.ulldl.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "吩盿綷"
+    },
+    "datePublished": "2026年08月23日01时09分40秒",
+    "dateModified": "2026年08月23日01时09分40秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "韩国股市为何大起大落",
+      "url": "http://www.share.ulldl.cn/Article/details/994416.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "多标签资源管理器 Clover V3.5.6 去广告绿色美化版 火绒不报毒",
+      "share_url": "http://www.share.ulldl.cn/Article/details/661002.sHtML"
+    },
+{
+      "platform": "广西一村庄为11名准大学生办升学礼",
+      "share_url": "http://www.share.ulldl.cn/Article/details/149299.sHtML"
+    },
+{
+      "platform": "申通老板娘前夫撤诉，2.8亿元离婚“旧账”画上句号！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/560361.sHtML"
+    },
+{
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "http://www.share.ulldl.cn/Article/details/080092.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌致5死17伤，伤者家属：孩子一只脚已截肢，还在ICU",
+      "share_url": "http://www.share.ulldl.cn/Article/details/301685.sHtML"
+    },
+{
+      "platform": "涉王星案！跨境人口贩卖集团17名犯罪嫌疑人被提起公诉",
+      "share_url": "http://www.share.ulldl.cn/Article/details/508312.sHtML"
+    },
+{
+      "platform": "2026德国教材：很多中国人没有汽车，出行靠自行车或步行，街头遍布自行车十分危险；中国人见面不握手，仅以鞠躬致意。",
+      "share_url": "http://www.share.ulldl.cn/Article/details/512377.sHtML"
+    },
+{
+      "platform": "西安通报赛格商场与坠楼者纠纷情况",
+      "share_url": "http://www.share.ulldl.cn/Article/details/494458.sHtML"
+    },
+{
+      "platform": "大西洋上的星河璀璨",
+      "share_url": "http://www.share.ulldl.cn/Article/details/144744.sHtML"
+    },
+    {
+      "platform": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
+      "share_url": "http://www.share.ulldl.cn/Article/details/256527.sHtML"
+    },
+{
+      "platform": "OpenAI要输？Anthropic按下万亿IPO快进键，达里奥2%持股夺权",
+      "share_url": "http://www.share.ulldl.cn/Article/details/796895.sHtML"
+    },
+{
+      "platform": "老人举起手机想拍美丽的鱼灯，却遭连环广告疯狂弹窗！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/100581.sHtML"
+    },
+{
+      "platform": "网传迪丽热巴陈飞宇恋爱依据",
+      "share_url": "http://www.share.ulldl.cn/Article/details/166600.sHtML"
+    },
+{
+      "platform": "宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/318248.sHtML"
+    },
+{
+      "platform": "用Spring Boot复刻了“微信消息撤回”：真正难的根本不是DELETE，而是让所有人的聊天窗口同时消失",
+      "share_url": "http://www.share.ulldl.cn/Article/details/941945.sHtML"
+    },
+{
+      "platform": "这升学宴的当事人，会不会一辈子无法心安，升学宴变升天",
+      "share_url": "http://www.share.ulldl.cn/Article/details/641366.sHtML"
+    },
+{
+      "platform": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/477253.sHtML"
+    },
+{
+      "platform": "她若不牺牲，十大元帅可能会有女元帅？贺龙：她的军事成就比我高",
+      "share_url": "http://www.share.ulldl.cn/Article/details/854340.sHtML"
+    },
+{
+      "platform": "刘亦菲携爱犬登上时尚芭莎九月刊",
+      "share_url": "http://www.share.ulldl.cn/Article/details/133134.sHtML"
+    },
+    {
+      "platform": "1935年、美国宇航员斯托里·马斯格雷夫出生",
+      "share_url": "http://www.share.ulldl.cn/Article/details/603178.sHtML"
+    },
+{
+      "platform": "小说下载器 - 你的网文自由神器！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/820109.sHtML"
+    },
+{
+      "platform": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
+      "share_url": "http://www.share.ulldl.cn/Article/details/509423.sHtML"
+    },
+{
+      "platform": "媒体：天津还能重回巅峰吗",
+      "share_url": "http://www.share.ulldl.cn/Article/details/478273.sHtML"
+    },
+{
+      "platform": "刚刚，GPT-6代号再泄露！或将周四见",
+      "share_url": "http://www.share.ulldl.cn/Article/details/300333.sHtML"
+    },
+{
+      "platform": "中国小伙越南见女友家长被海浪卷走失联 搜救多日无果",
+      "share_url": "http://www.share.ulldl.cn/Article/details/960647.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "http://www.share.ulldl.cn/Article/details/913066.sHtML"
+    },
+{
+      "platform": "1946年、美国第42任总统克林顿出生",
+      "share_url": "http://www.share.ulldl.cn/Article/details/218561.sHtML"
+    },
+{
+      "platform": "为什么很多旅游城市并不富裕？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/333849.sHtML"
+    },
+{
+      "platform": "中消协点名AI客服转人工不畅、网贷不规范催收等",
+      "share_url": "http://www.share.ulldl.cn/Article/details/223949.sHtML"
+    },
+    {
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "http://www.share.ulldl.cn/Article/details/157375.sHtML"
+    },
+{
+      "platform": "龚杨杰版你的胆子真是肥嘟嘟的",
+      "share_url": "http://www.share.ulldl.cn/Article/details/636121.sHtML"
+    },
+{
+      "platform": "王毅外长将访问韩国",
+      "share_url": "http://www.share.ulldl.cn/Article/details/374603.sHtML"
+    },
+{
+      "platform": "朱雀三号最后一脚刹车有多难",
+      "share_url": "http://www.share.ulldl.cn/Article/details/717812.sHtML"
+    },
+{
+      "platform": "第五人格加页手记微综艺",
+      "share_url": "http://www.share.ulldl.cn/Article/details/437286.sHtML"
+    },
+{
+      "platform": "佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/035562.sHtML"
+    },
+{
+      "platform": "江浙沪作为典型的南方地区，为什么嗜好面食，满大街都是面馆",
+      "share_url": "http://www.share.ulldl.cn/Article/details/632724.sHtML"
+    },
+{
+      "platform": "下班了，年轻人赶着去做副业",
+      "share_url": "http://www.share.ulldl.cn/Article/details/110338.sHtML"
+    },
+{
+      "platform": "天才少年离职卖玉米",
+      "share_url": "http://www.share.ulldl.cn/Article/details/875481.sHtML"
+    },
+{
+      "platform": "宇树科技坐上杭州“头把交椅”",
+      "share_url": "http://www.share.ulldl.cn/Article/details/413355.sHtML"
+    },
+    {
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "http://www.share.ulldl.cn/Article/details/064963.sHtML"
+    },
+{
+      "platform": "崴了脚拄上拐杖之后感受到了全世界都在向我释放出善意",
+      "share_url": "http://www.share.ulldl.cn/Article/details/844780.sHtML"
+    },
+{
+      "platform": "上海地铁预计平均每人次将贵1元左右",
+      "share_url": "http://www.share.ulldl.cn/Article/details/643465.sHtML"
+    },
+{
+      "platform": "OpenAI公开四加十条保命指南，专防AI自动化攻击",
+      "share_url": "http://www.share.ulldl.cn/Article/details/525604.sHtML"
+    },
+{
+      "platform": "日本人烈日下大排长龙买中国相机",
+      "share_url": "http://www.share.ulldl.cn/Article/details/959370.sHtML"
+    },
+{
+      "platform": "超5000只个股下跌 明天如何应对",
+      "share_url": "http://www.share.ulldl.cn/Article/details/763900.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "http://www.share.ulldl.cn/Article/details/539287.sHtML"
+    },
+{
+      "platform": "男子直肠癌手术三年后喝酒 医生提醒",
+      "share_url": "http://www.share.ulldl.cn/Article/details/323055.sHtML"
+    },
+{
+      "platform": "“迫害陆配的人，终身追责”",
+      "share_url": "http://www.share.ulldl.cn/Article/details/959103.sHtML"
+    },
+{
+      "platform": "笔试前13名全淘汰 倒数5名全逆袭",
+      "share_url": "http://www.share.ulldl.cn/Article/details/130302.sHtML"
+    },
+    {
+      "platform": "石家庄一小区发生疑似燃爆致3死",
+      "share_url": "http://www.share.ulldl.cn/Article/details/508287.sHtML"
+    },
+{
+      "platform": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+      "share_url": "http://www.share.ulldl.cn/Article/details/203211.sHtML"
+    },
+{
+      "platform": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "share_url": "http://www.share.ulldl.cn/Article/details/705899.sHtML"
+    },
+{
+      "platform": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "share_url": "http://www.share.ulldl.cn/Article/details/138052.sHtML"
+    },
+{
+      "platform": "河道鱼群聚集 有人抓几百斤",
+      "share_url": "http://www.share.ulldl.cn/Article/details/387489.sHtML"
+    },
+{
+      "platform": "赛力斯上半年营收574.93亿元",
+      "share_url": "http://www.share.ulldl.cn/Article/details/062132.sHtML"
+    },
+{
+      "platform": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/586489.sHtML"
+    },
+{
+      "platform": "【HarmonyOS 7 悬浮页签深度实战】02 从普通底栏到第一个悬浮页签",
+      "share_url": "http://www.share.ulldl.cn/Article/details/127939.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.share.ulldl.cn/Article/details/338499.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "http://www.share.ulldl.cn/Article/details/857739.sHtML"
+    },
+    {
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "http://www.share.ulldl.cn/Article/details/682877.sHtML"
+    },
+{
+      "platform": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/323184.sHtML"
+    },
+{
+      "platform": "博主：乌军或用新招打击莫斯科",
+      "share_url": "http://www.share.ulldl.cn/Article/details/978187.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "http://www.share.ulldl.cn/Article/details/495315.sHtML"
+    },
+{
+      "platform": "用剩菜剩饭直接喂猪违法",
+      "share_url": "http://www.share.ulldl.cn/Article/details/645356.sHtML"
+    },
+{
+      "platform": "邵永灵谈西方媒体酸中国机器狗的成功",
+      "share_url": "http://www.share.ulldl.cn/Article/details/074795.sHtML"
+    },
+{
+      "platform": "使用 Linux 一年后的真实感受",
+      "share_url": "http://www.share.ulldl.cn/Article/details/818269.sHtML"
+    },
+{
+      "platform": "男子花9元喜中1728万大奖",
+      "share_url": "http://www.share.ulldl.cn/Article/details/700587.sHtML"
+    },
+{
+      "platform": "新华社消息｜司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告",
+      "share_url": "http://www.share.ulldl.cn/Article/details/268730.sHtML"
+    },
+{
+      "platform": "矿山一面墙开采暗藏坍塌风险",
+      "share_url": "http://www.share.ulldl.cn/Article/details/761006.sHtML"
+    },
+    {
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "http://www.share.ulldl.cn/Article/details/353364.sHtML"
+    },
+{
+      "platform": "迷你世界致00后的一封信",
+      "share_url": "http://www.share.ulldl.cn/Article/details/990841.sHtML"
+    },
+{
+      "platform": "雷童的热烈换来春子我也是",
+      "share_url": "http://www.share.ulldl.cn/Article/details/750287.sHtML"
+    },
+{
+      "platform": "美股三大指数高开 SK海力士涨近5%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/114980.sHtML"
+    },
+{
+      "platform": "1871年、美国飞机设计师奥维尔·莱特诞生",
+      "share_url": "http://www.share.ulldl.cn/Article/details/178286.sHtML"
+    },
+{
+      "platform": "25年前辽宁一处长被枪击案重启侦查",
+      "share_url": "http://www.share.ulldl.cn/Article/details/471099.sHtML"
+    },
+{
+      "platform": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/977023.sHtML"
+    },
+{
+      "platform": "院内花生被车碾碎 当事人要求道歉",
+      "share_url": "http://www.share.ulldl.cn/Article/details/779970.sHtML"
+    },
+{
+      "platform": "网红猪油渣别当零食吃",
+      "share_url": "http://www.share.ulldl.cn/Article/details/544015.sHtML"
+    },
+{
+      "platform": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，2030年国内油气供应量目标4.4亿吨油当量",
+      "share_url": "http://www.share.ulldl.cn/Article/details/525171.sHtML"
+    },
+    {
+      "platform": "现在KTV里还有这种表演？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/218172.sHtML"
+    },
+{
+      "platform": "千名群众手持鲜花送别39岁儿科医生",
+      "share_url": "http://www.share.ulldl.cn/Article/details/458732.sHtML"
+    },
+{
+      "platform": "一批厨房纸巾被召回",
+      "share_url": "http://www.share.ulldl.cn/Article/details/984054.sHtML"
+    },
+{
+      "platform": "冰箱里囤的雪糕长满了大冰碴子，还能吃吗？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/842974.sHtML"
+    },
+{
+      "platform": "昆明一检测列车撞人致11死2伤，国铁昆明局被罚300万元",
+      "share_url": "http://www.share.ulldl.cn/Article/details/411308.sHtML"
+    },
+{
+      "platform": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/629398.sHtML"
+    },
+{
+      "platform": "宇树新品机器人原地跳高2米",
+      "share_url": "http://www.share.ulldl.cn/Article/details/105630.sHtML"
+    },
+{
+      "platform": "时隔21年，上海地铁将调价",
+      "share_url": "http://www.share.ulldl.cn/Article/details/635016.sHtML"
+    },
+{
+      "platform": "新业态不断激活暑期文旅消费",
+      "share_url": "http://www.share.ulldl.cn/Article/details/749712.sHtML"
+    },
+{
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "http://www.share.ulldl.cn/Article/details/196057.sHtML"
+    },
+    {
+      "platform": "宇树上市首日 青岛巨头赚了40亿",
+      "share_url": "http://www.share.ulldl.cn/Article/details/616180.sHtML"
+    },
+{
+      "platform": "“全部删除！”妈妈翻看女儿电话手表后爆发大吵：聊天群有10多个，通讯录一半是陌生人；女儿哭了好几天：我不被尊重",
+      "share_url": "http://www.share.ulldl.cn/Article/details/005396.sHtML"
+    },
+{
+      "platform": "网络上常见的热门短视频集锦 第三千三百七十六期",
+      "share_url": "http://www.share.ulldl.cn/Article/details/974170.sHtML"
+    },
+{
+      "platform": "微信视频号下载助手 wx_channel V5.7.1",
+      "share_url": "http://www.share.ulldl.cn/Article/details/322597.sHtML"
+    },
+{
+      "platform": "美军太平洋基地设施衰败状态堪忧",
+      "share_url": "http://www.share.ulldl.cn/Article/details/811362.sHtML"
+    },
+{
+      "platform": "奕境X9预售12小时订单突破16000台",
+      "share_url": "http://www.share.ulldl.cn/Article/details/535815.sHtML"
+    },
+{
+      "platform": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+      "share_url": "http://www.share.ulldl.cn/Article/details/304717.sHtML"
+    },
+{
+      "platform": "杭州梭子蟹价格持续回落",
+      "share_url": "http://www.share.ulldl.cn/Article/details/998310.sHtML"
+    },
+{
+      "platform": "老人别把“没力气”当正常衰老",
+      "share_url": "http://www.share.ulldl.cn/Article/details/311299.sHtML"
+    },
+{
+      "platform": "哈佛太平间盗卖遗体案和解",
+      "share_url": "http://www.share.ulldl.cn/Article/details/500215.sHtML"
+    },
+    {
+      "platform": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "share_url": "http://www.share.ulldl.cn/Article/details/714745.sHtML"
+    },
+{
+      "platform": "柚家1500件厨房纸巾被召回",
+      "share_url": "http://www.share.ulldl.cn/Article/details/520106.sHtML"
+    },
+{
+      "platform": "反抗强拆致死判无罪",
+      "share_url": "http://www.share.ulldl.cn/Article/details/877277.sHtML"
+    },
+{
+      "platform": "热穹顶北移，这次东北人要去华南避暑了？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/260864.sHtML"
+    },
+{
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "http://www.share.ulldl.cn/Article/details/404832.sHtML"
+    },
+{
+      "platform": "韩国高温已致19人死亡，李在明要求按“国家灾难状态”应对",
+      "share_url": "http://www.share.ulldl.cn/Article/details/892953.sHtML"
+    },
+{
+      "platform": "一审判决被推翻！禾赛科技告赢美国国防部",
+      "share_url": "http://www.share.ulldl.cn/Article/details/618263.sHtML"
+    },
+{
+      "platform": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
+      "share_url": "http://www.share.ulldl.cn/Article/details/929064.sHtML"
+    },
+{
+      "platform": "名嘴：孙颖莎王曼昱可能在这个时间点退役！王楚钦或效仿马龙战至37岁",
+      "share_url": "http://www.share.ulldl.cn/Article/details/389326.sHtML"
+    },
+{
+      "platform": "中国汽车欧洲份额破10%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/923212.sHtML"
+    },
+    {
+      "platform": "我们的少年时代2探病花絮",
+      "share_url": "http://www.share.ulldl.cn/Article/details/423207.sHtML"
+    },
+{
+      "platform": "石家庄居民楼发生部分坍塌 造成3人死亡",
+      "share_url": "http://www.share.ulldl.cn/Article/details/542108.sHtML"
+    },
+{
+      "platform": "突发！OpenAI停止强化学习训练两周",
+      "share_url": "http://www.share.ulldl.cn/Article/details/538277.sHtML"
+    },
+{
+      "platform": "女子为取空瓶倒掉免费水箱内矿泉水 最多一次倒了24瓶",
+      "share_url": "http://www.share.ulldl.cn/Article/details/996827.sHtML"
+    },
+{
+      "platform": "粉笔炒股巨额亏损超5638万元，与前CEO张小龙“拿8000万元现金炒股单月赚5300万元”炒股炫富言论形成鲜明反差",
+      "share_url": "http://www.share.ulldl.cn/Article/details/132059.sHtML"
+    },
+{
+      "platform": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/462358.sHtML"
+    },
+{
+      "platform": "1944年、纳粹德国陆军元帅京特·冯·克鲁格畏罪自杀",
+      "share_url": "http://www.share.ulldl.cn/Article/details/947954.sHtML"
+    },
+{
+      "platform": "拍张写真祝老己七夕快乐",
+      "share_url": "http://www.share.ulldl.cn/Article/details/757825.sHtML"
+    },
+{
+      "platform": "原价898元西瓜售出77单，平台回应“营养高10倍”：将提交质检部门调查",
+      "share_url": "http://www.share.ulldl.cn/Article/details/879520.sHtML"
+    },
+{
+      "platform": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/287962.sHtML"
+    },
+    {
+      "platform": "图片抠图去背景工具v1.0",
+      "share_url": "http://www.share.ulldl.cn/Article/details/326340.sHtML"
+    },
+{
+      "platform": "榜一大哥打赏千万后要求陪睡",
+      "share_url": "http://www.share.ulldl.cn/Article/details/717427.sHtML"
+    },
+{
+      "platform": "科学家颜宁自评：我勉强算人才，王虹才是天才",
+      "share_url": "http://www.share.ulldl.cn/Article/details/180262.sHtML"
+    },
+{
+      "platform": "证券业上演极致马太效应，形成三层稳态格局",
+      "share_url": "http://www.share.ulldl.cn/Article/details/512654.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "http://www.share.ulldl.cn/Article/details/316999.sHtML"
+    },
+{
+      "platform": "广汽埃安焕新LOGO首车Ray7亮相，搭载华为DriveONE电机",
+      "share_url": "http://www.share.ulldl.cn/Article/details/299553.sHtML"
+    },
+{
+      "platform": "2027 款广汽丰田凯美瑞上市：智能座舱大升级、小米生态接口，权益价 13.18 万起",
+      "share_url": "http://www.share.ulldl.cn/Article/details/005357.sHtML"
+    },
+{
+      "platform": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/163817.sHtML"
+    },
+{
+      "platform": "仿生机器人“以假乱真”",
+      "share_url": "http://www.share.ulldl.cn/Article/details/295507.sHtML"
+    },
+{
+      "platform": "世界人形机器人运动会选手测试",
+      "share_url": "http://www.share.ulldl.cn/Article/details/421624.sHtML"
+    },
+    {
+      "platform": "金山云 2026 财年第二财季归母亏损 9307.8 万元，同比亏损收窄 79.65%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/662374.sHtML"
+    },
+{
+      "platform": "胖东来招聘排除性侵人员",
+      "share_url": "http://www.share.ulldl.cn/Article/details/331250.sHtML"
+    },
+{
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.share.ulldl.cn/Article/details/465637.sHtML"
+    },
+{
+      "platform": "FREELANDER神行者8开启预售，大六座版预售价34.99万元起、大五座版预",
+      "share_url": "http://www.share.ulldl.cn/Article/details/728534.sHtML"
+    },
+{
+      "platform": "“不装”消费，当这届消费者开始卸下社交滤镜",
+      "share_url": "http://www.share.ulldl.cn/Article/details/034126.sHtML"
+    },
+{
+      "platform": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
+      "share_url": "http://www.share.ulldl.cn/Article/details/672592.sHtML"
+    },
+{
+      "platform": "金山软件 2026 财年上半年归母净利润 16.39 亿元，同比增长 101%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/229408.sHtML"
+    },
+{
+      "platform": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "share_url": "http://www.share.ulldl.cn/Article/details/039808.sHtML"
+    },
+{
+      "platform": "难怪瘦的时候容易觉得疼",
+      "share_url": "http://www.share.ulldl.cn/Article/details/734562.sHtML"
+    },
+{
+      "platform": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
+      "share_url": "http://www.share.ulldl.cn/Article/details/368341.sHtML"
+    },
+    {
+      "platform": "Moderna美股盘前涨超80% 公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响",
+      "share_url": "http://www.share.ulldl.cn/Article/details/920141.sHtML"
+    },
+{
+      "platform": "每体：加维拒绝了加盟曼联的可能，他决定留在巴萨",
+      "share_url": "http://www.share.ulldl.cn/Article/details/227043.sHtML"
+    },
+{
+      "platform": "裁判评议：云南vs英博比赛中，英博三例申诉均被驳回，裁判判罚正确",
+      "share_url": "http://www.share.ulldl.cn/Article/details/954327.sHtML"
+    },
+{
+      "platform": "司机开智驾玩手机冲进施工区",
+      "share_url": "http://www.share.ulldl.cn/Article/details/884621.sHtML"
+    },
+{
+      "platform": "仅退款的风吹到医院",
+      "share_url": "http://www.share.ulldl.cn/Article/details/186148.sHtML"
+    },
+{
+      "platform": "【从0开始学习计算机网络】| CA证书、数字签名与中间人攻击：一次完整的安全握手之旅",
+      "share_url": "http://www.share.ulldl.cn/Article/details/695768.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "http://www.share.ulldl.cn/Article/details/014167.sHtML"
+    },
+{
+      "platform": "里奇保罗：乔丹科比父母双全导致他们自私，詹姆斯单亲家庭导致其无私",
+      "share_url": "http://www.share.ulldl.cn/Article/details/388031.sHtML"
+    },
+{
+      "platform": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/844876.sHtML"
+    },
+{
+      "platform": "对比与生成：抖音SOTA多模态表征模型DME",
+      "share_url": "http://www.share.ulldl.cn/Article/details/308368.sHtML"
+    },
+    {
+      "platform": "做磁共振检查，忘了摘“999足金”的金镯子，万万没想到……",
+      "share_url": "http://www.share.ulldl.cn/Article/details/120981.sHtML"
+    },
+{
+      "platform": "日本外务省回应美国制裁赤根智子：深表遗憾",
+      "share_url": "http://www.share.ulldl.cn/Article/details/152727.sHtML"
+    },
+{
+      "platform": "清华今年录取4000余名学生",
+      "share_url": "http://www.share.ulldl.cn/Article/details/475123.sHtML"
+    },
+{
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "http://www.share.ulldl.cn/Article/details/001764.sHtML"
+    },
+{
+      "platform": "韩国外长谈特朗普突然施压的两大目的",
+      "share_url": "http://www.share.ulldl.cn/Article/details/035292.sHtML"
+    },
+{
+      "platform": "高不高产不知道 反正十八张图不够发",
+      "share_url": "http://www.share.ulldl.cn/Article/details/308957.sHtML"
+    },
+{
+      "platform": "在自己买的小房子里，生活徐徐展开！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/300463.sHtML"
+    },
+{
+      "platform": "SQL Server 迁移到 KingbaseES：一次复杂 BI 查询的性能实测",
+      "share_url": "http://www.share.ulldl.cn/Article/details/314547.sHtML"
+    },
+{
+      "platform": "一网店在蛋糕上印“拉布布Labubu”形象 被泡泡玛特公司起诉",
+      "share_url": "http://www.share.ulldl.cn/Article/details/475601.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "http://www.share.ulldl.cn/Article/details/748270.sHtML"
+    },
+    {
+      "platform": "男子拒还5000元借款杀害朋友埋尸自家院中，担心败露两年后又杀姑父灭口，被索赔580万一审判死刑",
+      "share_url": "http://www.share.ulldl.cn/Article/details/532703.sHtML"
+    },
+{
+      "platform": "为博流量恶意拨打110被行拘",
+      "share_url": "http://www.share.ulldl.cn/Article/details/349166.sHtML"
+    },
+{
+      "platform": "江苏“隐形高温”持续，体感闷热，警惕分散性雷阵雨突袭",
+      "share_url": "http://www.share.ulldl.cn/Article/details/791620.sHtML"
+    },
+{
+      "platform": "天山打洞只因那头有人民",
+      "share_url": "http://www.share.ulldl.cn/Article/details/072437.sHtML"
+    },
+{
+      "platform": "王者牛魔玩法升级爆料",
+      "share_url": "http://www.share.ulldl.cn/Article/details/001281.sHtML"
+    },
+{
+      "platform": "“男孩女孩我都喜欢”，但事实上，新生男孩越来越多",
+      "share_url": "http://www.share.ulldl.cn/Article/details/891286.sHtML"
+    },
+{
+      "platform": "刘一朵真成全国景区了",
+      "share_url": "http://www.share.ulldl.cn/Article/details/100296.sHtML"
+    },
+{
+      "platform": "中国经济何以持续“向新向优向好”？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/346501.sHtML"
+    },
+{
+      "platform": "GPT新模型在OpenAI内网自建留言板！三个月聊了几十万条，一直没人发现",
+      "share_url": "http://www.share.ulldl.cn/Article/details/686227.sHtML"
+    },
+{
+      "platform": "仅有百股跌停，多达300多只上涨",
+      "share_url": "http://www.share.ulldl.cn/Article/details/511712.sHtML"
+    },
+    {
+      "platform": "180多头白唇鹿横渡雅砻江",
+      "share_url": "http://www.share.ulldl.cn/Article/details/857639.sHtML"
+    },
+{
+      "platform": "买猫窝到货爬出小猫",
+      "share_url": "http://www.share.ulldl.cn/Article/details/578080.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "http://www.share.ulldl.cn/Article/details/807892.sHtML"
+    },
+{
+      "platform": "现货黄金日内涨幅达3%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/333296.sHtML"
+    },
+{
+      "platform": "石家庄再通报“居民楼部分坍塌”：3人遇难",
+      "share_url": "http://www.share.ulldl.cn/Article/details/774616.sHtML"
+    },
+{
+      "platform": "这8个饮食习惯，悄悄“吃掉”你的免疫力！最后一个很多人“中招”",
+      "share_url": "http://www.share.ulldl.cn/Article/details/313746.sHtML"
+    },
+{
+      "platform": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/008683.sHtML"
+    },
+{
+      "platform": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "share_url": "http://www.share.ulldl.cn/Article/details/721178.sHtML"
+    },
+{
+      "platform": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "share_url": "http://www.share.ulldl.cn/Article/details/002376.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.share.ulldl.cn/Article/details/428274.sHtML"
+    },
+    {
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "http://www.share.ulldl.cn/Article/details/280586.sHtML"
+    },
+{
+      "platform": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/576170.sHtML"
+    },
+{
+      "platform": "Magic Resume 实战：开源 AI 简历编辑器（多模型 + 本地存储）",
+      "share_url": "http://www.share.ulldl.cn/Article/details/582357.sHtML"
+    },
+{
+      "platform": "穆里尼奥：祝罗德里一切顺利，当然，也不要顺利过头了",
+      "share_url": "http://www.share.ulldl.cn/Article/details/109397.sHtML"
+    },
+{
+      "platform": "中国上市公司告赢美国国防部",
+      "share_url": "http://www.share.ulldl.cn/Article/details/767616.sHtML"
+    },
+{
+      "platform": "加总理卡尼再通话特朗普",
+      "share_url": "http://www.share.ulldl.cn/Article/details/109655.sHtML"
+    },
+{
+      "platform": "享界G9自适应上锁实测首曝，各种复杂路况脱困无压力！",
+      "share_url": "http://www.share.ulldl.cn/Article/details/108936.sHtML"
+    },
+{
+      "platform": "正泰电器 2026 年半年度归母净利润 31.30 亿元，同比增长 22.23%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/477143.sHtML"
+    },
+{
+      "platform": "2人涉嫌敲诈蜜雪冰城被刑拘",
+      "share_url": "http://www.share.ulldl.cn/Article/details/671008.sHtML"
+    },
+{
+      "platform": "有报道称中联部已邀请日本国会议员下周访华 中方回应",
+      "share_url": "http://www.share.ulldl.cn/Article/details/865495.sHtML"
+    },
+    {
+      "platform": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+      "share_url": "http://www.share.ulldl.cn/Article/details/225122.sHtML"
+    },
+{
+      "platform": "四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/928433.sHtML"
+    },
+{
+      "platform": "一款抗癌疫苗引爆美股医药股",
+      "share_url": "http://www.share.ulldl.cn/Article/details/006671.sHtML"
+    },
+{
+      "platform": "女子坐高铁遇咸猪手果断报警",
+      "share_url": "http://www.share.ulldl.cn/Article/details/709126.sHtML"
+    },
+{
+      "platform": "年亏17亿的“中国版SpaceX”，终于把火箭收回来了",
+      "share_url": "http://www.share.ulldl.cn/Article/details/963528.sHtML"
+    },
+{
+      "platform": "分布式GPU智能算法深度研究2026年版（下）",
+      "share_url": "http://www.share.ulldl.cn/Article/details/258264.sHtML"
+    },
+{
+      "platform": "翻翻乐"翻车"实录：一个看似简单的卡片游戏，我踩了五个坑",
+      "share_url": "http://www.share.ulldl.cn/Article/details/586643.sHtML"
+    },
+{
+      "platform": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "share_url": "http://www.share.ulldl.cn/Article/details/889605.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致四肢瘫痪",
+      "share_url": "http://www.share.ulldl.cn/Article/details/113908.sHtML"
+    },
+{
+      "platform": "直接就是养乐多啊，这么直接的吗？",
+      "share_url": "http://www.share.ulldl.cn/Article/details/007955.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日01时09分40秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
